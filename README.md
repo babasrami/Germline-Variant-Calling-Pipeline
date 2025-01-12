@@ -56,7 +56,7 @@ If you want more control, you can write a custom license that explicitly states 
 
 **Custom License Template:**
 ```plaintext
-Copyright (c) [Year] [Your Name]. All rights reserved.
+Copyright (c) [2024] [Rami BABAS]. All rights reserved.
 
 This code is part of a research project and is provided for academic and educational purposes. No permission is granted to use, modify, reproduce, or distribute this code or any derivatives without explicit prior written consent from the author.
 ```
